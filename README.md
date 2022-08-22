@@ -1,6 +1,6 @@
-# umi project
+# 竹合制作-答题系统
 
-## Getting Started
+## 起步
 
 Install dependencies,
 
