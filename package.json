@@ -20,7 +20,6 @@
     ]
   },
   "dependencies": {
-    "@ant-design/pro-layout": "^6.5.0",
     "react": "17.x",
     "react-dom": "17.x",
     "umi": "^3.5.32"
@@ -31,6 +30,7 @@
     "@umijs/preset-react": "1.x",
     "@umijs/test": "^3.5.32",
     "lint-staged": "^10.0.7",
+    "postcss-pxtorem": "5.1.1",
     "prettier": "^2.2.0",
     "typescript": "^4.1.2",
     "yorkie": "^2.0.0"
