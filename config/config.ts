@@ -16,6 +16,7 @@ export default defineConfig({
     hd: '2px',
   },
   fastRefresh: {},
+  outputPath: 'docs-dist',
   extraPostCSSPlugins: [
     pxToRem({
       rootValue: 50,
