@@ -17,6 +17,8 @@ export default defineConfig({
   },
   fastRefresh: {},
   outputPath: 'docs-dist',
+  base: '/answer-app',
+  publicPath: './',
   extraPostCSSPlugins: [
     pxToRem({
       rootValue: 50,
