@@ -1,15 +1,20 @@
 # 竹合制作-答题系统
 
-## 起步
+## 如何启动项目
 
-Install dependencies,
+* 依赖于node.js开发环境
+* 安装依赖
 
 ```bash
 $ yarn
 ```
-
-Start the dev server,
-
+* 启动项目
 ```bash
 $ yarn start
 ```
+* 部署项目到github中可以访问
+```bash
+$ yarn deploy
+```
+* 访问地址：https://cz160.github.io/answer-app/
+
