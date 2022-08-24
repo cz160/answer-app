@@ -3,6 +3,9 @@
 ## 如何启动项目
 
 * 依赖于node.js开发环境
+```
+node.js安装教程(https://www.runoob.com/nodejs/nodejs-install-setup.html)
+```
 * 安装依赖
 
 ```bash
