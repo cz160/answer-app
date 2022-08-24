@@ -42,7 +42,7 @@ const QuestionList = [
 ```
 ### 结果计算规则
 * 找到src/pages/result/constants.ts文件
-* 里面有个ResultList表示结果展示列表,没一个对象表示一个结果，拥有以下属性
+* 里面有个ResultList表示结果展示列表,每一个对象表示一个结果，拥有以下属性
 ```ts
 {
   // 分数开始区间
